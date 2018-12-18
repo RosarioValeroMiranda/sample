@@ -1,2 +1,2 @@
 # sample
-sample of how to hand over your project
+Link to the website: www.mybootstrap4project.com/example
